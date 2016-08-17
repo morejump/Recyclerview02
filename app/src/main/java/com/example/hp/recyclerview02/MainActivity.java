@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         init();
 
 
-
+// hihi
     }
     private void init(){
         recyclerView = (RecyclerView) findViewById(R.id.rcy_Contact);
